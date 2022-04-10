@@ -1,0 +1,31 @@
+
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header {
+
+        background-color:slateblue;
+        display:flex;
+        justify-content:space-between;
+}
+
+
+.SocialMedia {
+
+    background-color: brown;
+    display:flex;
+    justify-content: flex-end;
+}
+
+
+.grid {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
